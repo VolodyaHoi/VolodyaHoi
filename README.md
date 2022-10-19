@@ -12,5 +12,5 @@ My projects:
   Lucifer (multifunctional cross-platform program).
   
  My links:
-  Telegram: @atomthreatsup
+  Telegram: @atomthreatsup |
   Vkontakte: @id631406971
