@@ -1,5 +1,5 @@
 Coder Python, C#, C++
-Atomic Threat Group () 2022
+Atomic Threat Group (c) 2022
 
 My projects:
   H[0]i cheat for SA:MP,
