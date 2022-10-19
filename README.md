@@ -19,7 +19,7 @@
 
      My links:
       Telegram: @atomthreatsup |
-      <Vkontakte: @id631406971
+      Vkontakte: @id631406971
 
   <bode>
 </html>
