@@ -1,6 +1,6 @@
 <html>
   <body>
-    <font color = #00FF00 > Coder Python, C#, C++ </font>
+    Coder Python, C#, C++ 
     Atomic Threat Group (c) 2022
 
     My projects:
@@ -15,7 +15,7 @@
 
      My links:
       Telegram: @atomthreatsup |
-      Vkontakte: @id631406971
+      <Vkontakte: @id631406971
 
     :atom:
   <bode>
