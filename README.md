@@ -1,8 +1,9 @@
 <html>
+  <head>
+    <h1> VolodyaHoi a.k.a At0m </h1>
+    <h4> I`m leader Atomic Threat Team </h4> 
+  </head>
   <body>
-    
-    [VolodyaHoi | At0m]
-    
     
     Coder Python, C#, C++ 
     Atomic Threat Group (c) 2022
@@ -20,6 +21,8 @@
      My links:
       Telegram: @atomthreatsup 
       Vkontakte: @id631406971
+      
+About my team: 
 
   <bode>
 </html>
