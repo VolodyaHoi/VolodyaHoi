@@ -1,7 +1,7 @@
 <html>
   <head>
     <h1> VolodyaHoi a.k.a At0m </h1>
-    <h4> I`m leader Atomic Threat Team and best of the bes anime girl in the world ~UwU~</h4> 
+    <h4> I`m leader Atomic Threat Team and best of the best anime girl in the world ~UwU~</h4> 
   </head>
   <body>
     
