@@ -8,10 +8,11 @@
     Coder Python, C#, C++ 
     Atomic Threat Group (c) 2022
 
-    My projects:
+    My projects & guides:
       H[0]i cheat for SA:MP,
       LoVer (IP & Phone Number checker),
-      Coffee-B0MB3R (not work).
+      Coffee-B0MB3R (not work),
+      C++ examples
 
      Future:
       Atomic Threat site,
