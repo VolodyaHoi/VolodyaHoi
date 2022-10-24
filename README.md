@@ -22,8 +22,7 @@
       Telegram: @atomthreatsup 
       Vkontakte: @id631406971
       
-About my team: 
-
   <bode>
 </html>
-  :atom:
+
+    I`m cute otter 🦦 ❤️
