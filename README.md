@@ -13,11 +13,13 @@
       LoVer (IP & Phone Number checker),
       Coffee-B0MB3R (not work),
       C++ examples
+      C# examples
 
      Future:
       Atomic Threat site,
       Atomic Threat DataBase creator,
       Lucifer (multifunctional cross-platform program).
+      AML project
 
      My links:
       Telegram: @atomthreatsup 
