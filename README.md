@@ -1,11 +1,11 @@
 <html>
   <head>
     <h1> Hello world! I`m VolodyaHoi (At0m) </h1>
-    <h4> I`m the best of the best anime girl in the world ~UwU~</h4> 
+    <h4>~UwU~</h4> 
   </head>
   <body>
     
-    Coder Python, C#, C++ 
+    Programmer on Python, C#, C++ 
     
     Team:
       Atomic Threat Group (c) 2022
