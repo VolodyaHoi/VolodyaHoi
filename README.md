@@ -10,11 +10,9 @@
     Team:
       Atomic Threat Group (c) 2022
 
-    My projects & guides:
-      H[0]i cheat for SA:MP,
-      LoVer (IP & Phone Number checker).
+    **All my projects are in repositories.**
 
-     Future:
+     Future projects:
       Lucifer (multifunctional cross-platform program),
       AML project.
 
