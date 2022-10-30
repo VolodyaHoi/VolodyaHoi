@@ -12,20 +12,20 @@
       H[0]i cheat for SA:MP,
       LoVer (IP & Phone Number checker),
       Coffee-B0MB3R (not work),
-      C++ examples
-      C# examples
+      C++ examples,
+      C# examples.
 
      Future:
       Atomic Threat site,
       Atomic Threat DataBase creator,
-      Lucifer (multifunctional cross-platform program).
-      AML project
+      Lucifer (multifunctional cross-platform program),
+      AML project.
 
      My links:
       Telegram: @atomthreatsup 
       Vkontakte: @id631406971
       
-  <bode>
+  </body>
 </html>
 
     I`m cute otter 🦦 ❤️
