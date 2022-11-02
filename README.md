@@ -20,7 +20,7 @@
       Telegram: @atomthreatsup 
       Vkontakte: @id631406971
 
-  <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Volodya-Hoi&show_icons=true&theme=dracula&hide_border=true&locale=en&layout=compact" alt="Volodya-Hoi stats" /></p>
+  <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=VolodyaHoi&show_icons=true&theme=dracula&hide_border=true&locale=en&layout=compact" alt="VolodyaHoi stats" /></p>
       
   </body>
 </html>
