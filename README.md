@@ -13,8 +13,9 @@
     **All my projects are in repositories.**
 
      Future projects:
-      Lucifer (multifunctional cross-platform program),
-      AML project.
+      Lucifer (multifunctional cross-platform program) [Python],
+      AML project [Java],
+      Dev1lz kiss [Python + Termux].
 
      My links:
       Telegram: @atomthreatsup 
