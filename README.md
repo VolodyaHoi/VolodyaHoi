@@ -8,7 +8,7 @@
 
 ## Mt team:
     
-**:atom:Atomic Threat Group (c) 2022**
+**:atom_symbol: Atomic Threat Group (c) 2022 :atom_symbol:**
 
 **❗All my projects are in repositories.❗**
 
