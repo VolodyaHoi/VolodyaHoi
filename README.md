@@ -6,11 +6,18 @@
 
 > I`m cute otter 🦦 ❤️
 
-## Mt team:
+## My team:
     
 **:atom_symbol: Atomic Threat Group (c) 2022 :atom_symbol:**
 
+[![telegram](https://img.shields.io/static/v1?label=&message=telegram&color=191919&style=for-the-badge&logo=telegram)](https://t.me/atomicthreatgroup)
+[![vkontakte](https://img.shields.io/static/v1?label=&message=VK&color=191919&style=for-the-badge&logo=vk)](https://vk.com/atomicthreatgroup)
+[![github](https://img.shields.io/static/v1?label=&message=github&color=191919&style=for-the-badge&logo=github)](https://github.com/Atomic-Threat-Team)
+
+## Information:
+
 **❗All my projects are in repositories.❗**
+> Each project has notes, follow them
 
 ## Future projects:
 
@@ -18,7 +25,15 @@
       
 - AML project [Java],
       
-- Dev1lz kiss [Python + Termux].
+- Dev1lz kiss [Python + Termux],
+
+- C# guides [Practice & Examples],
+
+- C++ guides [Practice & Examples],
+
+- Atomic Threat Site,
+
+- Atomic Threat DataBase creator.
 
 ## My links:
 
