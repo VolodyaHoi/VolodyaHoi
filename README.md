@@ -6,6 +6,8 @@
   <body>
     
     Programmer on Python, C#, C++ 
+
+    Linux Ubuntu user
     
     Team:
       Atomic Threat Group (c) 2022
