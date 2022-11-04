@@ -6,7 +6,7 @@
     
 Team: Atomic Threat Group (c) 2022 
 
-❗**All my projects are in repositories.**❗
+**❗All my projects are in repositories.❗**
 
 ## Future projects:
 
