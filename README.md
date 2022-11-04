@@ -3,25 +3,27 @@
 ![VolodyaHoi](https://github.com/VolodyaHoi/VolodyaHoi/blob/master/banner.jpg)
 
 <h4>~UwU~</h4> 
+
+> I`m cute otter 🦦 ❤️
+
+## Mt team:
     
-Team: Atomic Threat Group (c) 2022 
+**:atom:Atomic Threat Group (c) 2022**
 
 **❗All my projects are in repositories.❗**
 
 ## Future projects:
 
-      Lucifer (multifunctional cross-platform program) [Python],
+- Lucifer (multifunctional cross-platform program) [Python],
       
-      AML project [Java],
+- AML project [Java],
       
-      Dev1lz kiss [Python + Termux].
+- Dev1lz kiss [Python + Termux].
 
 ## My links:
 
 [![telegram](https://img.shields.io/static/v1?label=&message=telegram&color=191919&style=for-the-badge&logo=telegram)](https://t.me/atomthreatsup)
 [![vkontakte](https://img.shields.io/static/v1?label=&message=VK&color=191919&style=for-the-badge&logo=vk)](https://vk.com/id631406971)
-
-I`m cute otter 🦦 ❤️
 
 | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=VolodyaHoi&show_icons=true&theme=vue&hide_border=true&locale=en&layout=compact&hide_border=true" alt="VolodyaHoi stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api?username=VolodyaHoi&show_icons=true&include_all_commits=true&theme=vue&cache_seconds=3200"/> |
 | ------------- | ------------- |
@@ -46,4 +48,3 @@ I`m cute otter 🦦 ❤️
 
 ## Last release:
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=VolodyaHoi&repo=LoVer-IP-and-Phone-Number-checker&theme=vue)](https://github.com/VolodyaHoi/LoVer-IP-and-Phone-Number-checker)
-
