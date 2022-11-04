@@ -1,9 +1,10 @@
 <h1> Hello world! I`m VolodyaHoi (At0m) </h1>
+![VolodyaHoi](https://github.com/VolodyaHoi/VolodyaHoi/blob/main/banner.jpg?raw=true)
 <h4>~UwU~</h4> 
     
 Team: Atomic Threat Group (c) 2022 
 
-**All my projects are in repositories.**
+❗**All my projects are in repositories.**❗
 
 ## Future projects:
 
