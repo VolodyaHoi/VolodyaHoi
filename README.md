@@ -1,6 +1,6 @@
 <h1> Hello world! I`m VolodyaHoi (At0m) </h1>
 
-![VolodyaHoi](https://github.com/VolodyaHoi/VolodyaHoi/blob/main/banner.jpg?raw=true)
+![VolodyaHoi](https://github.com/VolodyaHoi/VolodyaHoi/blob/master/banner.jpg)
 
 <h4>~UwU~</h4> 
     
