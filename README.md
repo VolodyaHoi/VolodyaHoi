@@ -41,3 +41,6 @@ I`m cute otter 🦦 ❤️
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pycharm/pycharm-original.svg" alt="pycharm" width="40" height="40"/>
 
+## Visitors:
+<img src="https://profile-counter.glitch.me/VolodyaHoi/count.svg" />
+
