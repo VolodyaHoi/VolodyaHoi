@@ -43,6 +43,7 @@
 
 [![telegram](https://img.shields.io/static/v1?label=&message=telegram&color=191919&style=for-the-badge&logo=telegram)](https://t.me/atomthreatsup)
 [![vkontakte](https://img.shields.io/static/v1?label=&message=VK&color=191919&style=for-the-badge&logo=vk)](https://vk.com/id631406971)
+[![discord](https://img.shields.io/static/v1?label=&message=discord&color=191919&style=for-the-badge&logo=discord)](https://vk.com/id631406971)
 
 ## Statistics:
 
