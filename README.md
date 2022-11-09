@@ -37,15 +37,17 @@
 
 - Atomic Threat Telegram bot,
 
+- Atomic Threat Discord bot,
+
 - Atomic Threat DataBase creator.
 
 ## My links:
 
 [![telegram](https://img.shields.io/static/v1?label=&message=telegram&color=191919&style=for-the-badge&logo=telegram)](https://t.me/atomthreatsup)
 [![vkontakte](https://img.shields.io/static/v1?label=&message=VK&color=191919&style=for-the-badge&logo=vk)](https://vk.com/id631406971)
-[![discord](https://img.shields.io/static/v1?label=&message=discord&color=191919&style=for-the-badge&logo=discord)](https://vk.com/id631406971)
+[![discord](https://img.shields.io/static/v1?label=&message=discord&color=191919&style=for-the-badge&logo=discord)](https://discordapp.com/users/553976002783608863/)
 
-## Statistics:
+## Statistics: 
 
 | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=VolodyaHoi&show_icons=true&theme=vue&hide_border=true&locale=en&layout=compact&hide_border=true" alt="VolodyaHoi stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api?username=VolodyaHoi&show_icons=true&include_all_commits=true&theme=vue&cache_seconds=3200"/> |
 | ------------- | ------------- |
