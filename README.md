@@ -19,6 +19,8 @@
 **❗All my projects are in repositories.❗**
 > Each project has notes, follow them
 
+> Web-site: https://volodyahoi.github.io
+
 ## Future projects:
 
 - Lucifer (multifunctional cross-platform program) [Python],
