@@ -26,12 +26,12 @@
 - Lucifer (multifunctional cross-platform program) [Python],
       
 - AML project [Java],
-      
-- Dev1lz kiss [Python + Termux],
-
+    
 - C# guides [Practice & Examples],
 
 - C++ guides [Practice & Examples],
+
+- My info site,
 
 - Atomic Threat Site,
 
@@ -71,4 +71,4 @@
 <img src="https://profile-counter.glitch.me/VolodyaHoi/count.svg" />
 
 ## Last release:
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=VolodyaHoi&repo=LoVer-IP-and-Phone-Number-checker&theme=vue)](https://github.com/VolodyaHoi/LoVer-IP-and-Phone-Number-checker)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=VolodyaHoi&repo=Dev1lz-kiss-termux&theme=vue)](https://github.com/VolodyaHoi/Dev1lz-kiss-termux)
