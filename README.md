@@ -39,7 +39,11 @@
 
 - Atomic Threat Discord bot,
 
-- Atomic Threat DataBase creator.
+- Atomic Threat DataBase creator,
+
+- Elizabeth helper,
+
+- R.E.I protect system.
 
 ## My links:
 
