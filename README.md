@@ -19,7 +19,9 @@
 **❗All my projects are in repositories.❗**
 > Each project has notes, follow them
 
-> Web-site: https://volodyahoi.github.io
+> Web-page: https://volodyahoi.github.io
+
+> Team web-page https://Atomic-Threat-Team.io
 
 ## Future projects:
 
