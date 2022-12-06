@@ -21,7 +21,7 @@
 
 > Web-page: https://volodyahoi.github.io
 
-> Team web-page https://Atomic-Threat-Team.io
+> Team web-page https://Atomic-Threat-Team.github.io
 
 ## Future projects:
 
