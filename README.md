@@ -27,7 +27,7 @@
 
 - Lucifer (multifunctional cross-platform program) [Python],
       
-- AML project [Java],
+- AML project account creator,
     
 - C# guides [Practice & Examples],
 
