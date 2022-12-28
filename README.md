@@ -47,7 +47,9 @@
 
 - R.E.I protect system,
 
-- NemesiS proj .
+- NemesiS proj,
+
+- Miss Fortune AI.
 
 ## My links:
 
