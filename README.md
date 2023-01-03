@@ -33,23 +33,15 @@
 
 - C++ guides [Practice & Examples],
 
-- My info site,
-
 - Atomic Threat Site,
 
 - Atomic Threat Telegram bot,
 
 - Atomic Threat Discord bot,
 
-- Atomic Threat DataBase creator,
+- Miss Fortune AI,
 
-- Elizabeth helper,
-
-- R.E.I protect system,
-
-- NemesiS proj,
-
-- Miss Fortune AI.
+- AML proxy.
 
 ## My links:
 
