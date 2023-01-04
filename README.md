@@ -73,4 +73,4 @@
 <img src="https://profile-counter.glitch.me/VolodyaHoi/count.svg" />
 
 ## Last release:
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=VolodyaHoi&repo=Dev1lz-kiss-termux&theme=vue)](https://github.com/VolodyaHoi/Dev1lz-kiss-termux)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=VolodyaHoi&repo=AML-proxy&theme=vue)](https://github.com/VolodyaHoi/AML-proxy)
