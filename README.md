@@ -39,9 +39,7 @@
 
 - Atomic Threat Discord bot,
 
-- Miss Fortune AI,
-
-- AML proxy.
+- Miss Fortune AI.
 
 ## My links:
 
