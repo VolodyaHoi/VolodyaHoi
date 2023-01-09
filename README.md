@@ -26,8 +26,6 @@
 ## Future projects:
 
 - Lucifer (multifunctional cross-platform program) [Python],
-      
-- AML project account creator,
     
 - C# guides [Practice & Examples],
 
@@ -71,4 +69,4 @@
 <img src="https://profile-counter.glitch.me/VolodyaHoi/count.svg" />
 
 ## Last release:
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=VolodyaHoi&repo=AML-proxy&theme=vue)](https://github.com/VolodyaHoi/AML-proxy)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=VolodyaHoi&repo=AML-account-generator&theme=vue)](https://github.com/VolodyaHoi/AML-account-generator)
