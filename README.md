@@ -39,6 +39,10 @@
 
 - Miss Fortune AI.
 
+## Developer AML-software
+
+> WARNING! My AML-projects has no relation to Anti-Money Laundering and other projects with AML abbreviation
+
 ## My links:
 
 [![telegram](https://img.shields.io/static/v1?label=&message=telegram&color=191919&style=for-the-badge&logo=telegram)](https://t.me/atomthreatsup)
