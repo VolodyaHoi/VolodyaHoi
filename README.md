@@ -2,26 +2,13 @@
 
 <img src="https://sun9-57.userapi.com/PaR-UbKh1vtWHlDC8qXkJ0Q_WsEWGLCzg-bUiw/m0VyyjPDz_k.jpg" alt="maluv" width="800" height="300"/>
 
-<h4>~UwU~</h4> 
-
-> I`m cute otter 🦦 ❤️
-
-## My team:
-    
-**:atom_symbol: Atomic Threat Group (c) 2022 :atom_symbol:**
-
-[![telegram](https://img.shields.io/static/v1?label=&message=telegram&color=191919&style=for-the-badge&logo=telegram)](https://t.me/atomicthreatgroup)
-[![vkontakte](https://img.shields.io/static/v1?label=&message=VK&color=191919&style=for-the-badge&logo=vk)](https://vk.com/atomicthreatgroup)
-[![github](https://img.shields.io/static/v1?label=&message=github&color=191919&style=for-the-badge&logo=github)](https://github.com/Atomic-Threat-Team)
-
 ## Information:
 
+Im a novice IT specialist with a backend bias (but often I have to do fullstack). Im developing application programs designed for various purposes. I am using <a href=https://ubuntu.com/>Linux Ubuntu 22</a> as an operating system. Part of the software is released under the AML tag (it is not related to the fight against money laundering and other projects with the abbreviation AML). Also, I am the head of <a href=https://github.com/Atomic-Threat-Team>Atomic Threat Team</a>.
+
+> My developments and achievements are aimed at my own development.
+
 **❗All my projects are in repositories.❗**
-> Each project has notes, follow them
-
-> Web-page: https://volodyahoi.github.io
-
-> Team web-page https://Atomic-Threat-Team.github.io
 
 ## Future projects:
 
@@ -38,16 +25,6 @@
 - Atomic Threat Discord bot,
 
 - Miss Fortune AI.
-
-## Developer AML-software
-
-> WARNING! My AML-projects has no relation to Anti-Money Laundering and other projects with AML abbreviation
-
-## My links:
-
-[![telegram](https://img.shields.io/static/v1?label=&message=telegram&color=191919&style=for-the-badge&logo=telegram)](https://t.me/atomthreatsup)
-[![vkontakte](https://img.shields.io/static/v1?label=&message=VK&color=191919&style=for-the-badge&logo=vk)](https://vk.com/id631406971)
-[![discord](https://img.shields.io/static/v1?label=&message=discord&color=191919&style=for-the-badge&logo=discord)](https://discordapp.com/users/553976002783608863/)
 
 ## Statistics: 
 
@@ -72,5 +49,16 @@
 ## Visitors:
 <img src="https://profile-counter.glitch.me/VolodyaHoi/count.svg" />
 
-## Last release:
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=VolodyaHoi&repo=MyColorsLib&theme=vue)](https://github.com/VolodyaHoi/MyColorsLib)
+## My links:
+
+[![telegram](https://img.shields.io/static/v1?label=&message=telegram&color=191919&style=for-the-badge&logo=telegram)](https://t.me/atomthreatsup)
+[![vkontakte](https://img.shields.io/static/v1?label=&message=VK&color=191919&style=for-the-badge&logo=vk)](https://vk.com/id631406971)
+[![discord](https://img.shields.io/static/v1?label=&message=discord&color=191919&style=for-the-badge&logo=discord)](https://discordapp.com/users/553976002783608863/)
+
+## My team:
+    
+**:atom_symbol: Atomic Threat Group (c) 2022 :atom_symbol:**
+
+[![telegram](https://img.shields.io/static/v1?label=&message=telegram&color=191919&style=for-the-badge&logo=telegram)](https://t.me/atomicthreatgroup)
+[![vkontakte](https://img.shields.io/static/v1?label=&message=VK&color=191919&style=for-the-badge&logo=vk)](https://vk.com/atomicthreatgroup)
+[![github](https://img.shields.io/static/v1?label=&message=github&color=191919&style=for-the-badge&logo=github)](https://github.com/Atomic-Threat-Team)
