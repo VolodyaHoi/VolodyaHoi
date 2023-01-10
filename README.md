@@ -73,4 +73,4 @@
 <img src="https://profile-counter.glitch.me/VolodyaHoi/count.svg" />
 
 ## Last release:
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=VolodyaHoi&repo=AML-account-generator&theme=vue)](https://github.com/VolodyaHoi/AML-account-generator)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=VolodyaHoi&repo=MyColorsLib&theme=vue)](https://github.com/VolodyaHoi/MyColorsLib)
