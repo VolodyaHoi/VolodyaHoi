@@ -28,7 +28,6 @@ Im a novice IT specialist with a backend bias (but often I have to do fullstack)
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pycharm/pycharm-original.svg" alt="pycharm" width="40" height="40"/>
 
 #### My team: **:atom_symbol: Atomic Threat Group (c) 2022 :atom_symbol:**
 | [![telegram](https://img.shields.io/static/v1?label=&message=telegram&color=191919&style=for-the-badge&logo=telegram)](https://t.me/atomicthreatgroup) | 
