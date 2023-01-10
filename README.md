@@ -39,5 +39,5 @@ Im a novice IT specialist with a backend bias (but often I have to do fullstack)
 
 ## Statistics: 
 
-| <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=VolodyaHoi&show_icons=true&theme=vue&hide_border=true&locale=en&layout=compact&hide_border=true" alt="VolodyaHoi stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api?username=VolodyaHoi&show_icons=true&include_all_commits=true&theme=vue&cache_seconds=3200"/> |
+| <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=VolodyaHoi&show_icons=true&theme=default&hide_border=true&locale=en&layout=compact&hide_border=true" alt="VolodyaHoi stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api?username=VolodyaHoi&show_icons=true&include_all_commits=true&theme=default&cache_seconds=3200"/> |
 | ------------- | ------------- |
