@@ -4,7 +4,7 @@
 
 ## Information:
 
-Im a novice IT specialist with a backend bias (but often I have to do fullstack). Im developing application programs designed for various purposes. I am using <a href=https://ubuntu.com/>Linux Ubuntu 22</a> as an operating system. Part of the software is released under the AML tag (it is not related to the fight against money laundering and other projects with the abbreviation AML). Also, I am the head of <a href=https://github.com/Atomic-Threat-Team>Atomic Threat Team</a>.
+Im a novice IT specialist with a backend bias (but often I have to do fullstack). Im developing application programs designed for various purposes. I am using <a href=https://ubuntu.com/>Linux Ubuntu 22</a> as an operating system. Part of the software is released under the AML tag (it is not related to the fight against money laundering and other projects with the abbreviation AML). Also, Im the head of <a href=https://github.com/Atomic-Threat-Team>Atomic Threat Team</a>.
 
 > My developments and achievements are aimed at my own development.
 
