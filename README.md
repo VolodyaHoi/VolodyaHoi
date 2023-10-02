@@ -1,4 +1,4 @@
-<i>Hello world! I`m VolodyaHoi</i>
+# Hello world! I`m VolodyaHoi
 
 <p align="center">
 
