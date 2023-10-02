@@ -6,10 +6,10 @@
 
 ## Information:
 
-[ENG] I am a novice IT specialist with a backend bias (but often I have to work with a full stack). I develop application programs designed for various purposes. For 2 years I have been using <a href=https://ubuntu.com/>Linux Ubuntu 22</a> as an operating system on a regular basis. Part of the software is released under the AML tag (it is not related to the fight against money laundering and other projects with the abbreviation AML). I study information security and privacy on the web.
+[ENG] I am a novice IT specialist with a backend bias (but often I have to work with a full stack). I develop application programs designed for various purposes. For 2 years I have been using <a href=https://ubuntu.com/>Linux Ubuntu 22</a> as an operating system on a regular basis. 
+I study information security and privacy on the web.
 
 [RU] Я начинающий IT-специалист с уклоном в бэкенд (но часто мне приходится работать с полным стеком). Я разрабатываю прикладные программы, предназначенные для различных целей. В течение 2 лет я использовал <a href=https://ubuntu.com/>Linux Ubuntu 22</a> в качестве операционной системы. 
-p.s Часть программного обеспечения выпущена под тегом AML (оно не связано с борьбой с отмыванием денег и другими проектами с аббревиатурой AML). 
 Изучаю информационную безопасность и конфиденциальность в Интернете.
 
 [![telegram](https://img.shields.io/static/v1?label=&message=telegram&color=191919&style=for-the-badge&logo=telegram)](https://t.me/notavl2) [![vkontakte](https://img.shields.io/static/v1?label=&message=VK&color=191919&style=for-the-badge&logo=vk)](https://vk.com/id631406971) 
@@ -29,7 +29,7 @@ p.s Часть программного обеспечения выпущена 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/>
 
 **❗All my projects are in repositories.❗**
-
+> p.s Part of the software is released under the AML tag (it is not related to the fight against money laundering and other projects with the abbreviation AML).
 ## Statistics: 
 
 | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=VolodyaHoi&show_icons=true&theme=github_dark&hide_border=true&locale=en&layout=compact&border=false" alt="VolodyaHoi stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api?username=VolodyaHoi&show_icons=true&include_all_commits=true&theme=github_dark&cache_seconds=3200&border=false&hide_border=true"/> |
