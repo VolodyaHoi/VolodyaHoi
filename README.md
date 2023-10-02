@@ -1,4 +1,4 @@
-<h1 align="center" font-style="italic"> Hello world! I`m VolodyaHoi </h1>
+<h1 align="center" style="font-style: italic;"> Hello world! I`m VolodyaHoi </h1>
 
 <p align="center">
 
