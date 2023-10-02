@@ -1,5 +1,5 @@
-<p align="center" size="44">
-<i>Hello world! I`m VolodyaHoi</i>
+<p align="center">
+<i size="24">Hello world! I`m VolodyaHoi</i>
 
 <p align="center">
 
