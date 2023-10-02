@@ -4,6 +4,8 @@
 
 <img src="https://images.hdqwalls.com/download/ciri-the-witcher-3-digital-art-4k-p3-2560x1080.jpg" alt="ciri" width="800" height="300"/>
 
+<img src="https://i.pinimg.com/originals/4e/b3/53/4eb35344afdc1fd47fb29ccc9d31d8df.gif" alt="ciri" width="800" height="300"/>
+
 ## Information:
 
 __*[ENG]*__ I am a novice IT specialist with a backend bias (but often I have to work with a full stack). I develop application programs designed for various purposes. For 2 years I have been using <a href=https://ubuntu.com/>Linux Ubuntu 22</a> as an operating system on a regular basis. 
