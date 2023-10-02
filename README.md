@@ -1,4 +1,4 @@
-<p align="center">
+<p align="center" size="24">
 <i>Hello world! I`m VolodyaHoi</i>
 
 <p align="center">
