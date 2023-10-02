@@ -1,4 +1,4 @@
-<h1 align="center"> Hello world! I`m VolodyaHoi </h1>
+<h1 align="center"> *Hello world! I`m VolodyaHoi* </h1>
 
 <p align="center">
 
@@ -14,7 +14,7 @@ __*[RU]*__ Я начинающий IT-специалист с уклоном в 
 
 [![telegram](https://img.shields.io/static/v1?label=&message=telegram&color=191919&style=for-the-badge&logo=telegram)](https://t.me/notavl2) [![vkontakte](https://img.shields.io/static/v1?label=&message=VK&color=191919&style=for-the-badge&logo=vk)](https://vk.com/id631406971) 
 
-> My developments and achievements are aimed at my own development.
+> **My developments and achievements are aimed at my own development**.
 
 <p align="center">
 
@@ -29,7 +29,7 @@ __*[RU]*__ Я начинающий IT-специалист с уклоном в 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/>
 
 **❗All my projects are in repositories.❗**
-> P.S Part of the software is released under the AML tag (it is not related to the fight against money laundering and other projects with the abbreviation AML).
+> *P.S Part of the software is released under the AML tag (it is not related to the fight against money laundering and other projects with the abbreviation AML)*.
 ## Statistics: 
 
 | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=VolodyaHoi&show_icons=true&theme=github_dark&hide_border=true&locale=en&layout=compact&border=false" alt="VolodyaHoi stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api?username=VolodyaHoi&show_icons=true&include_all_commits=true&theme=github_dark&cache_seconds=3200&border=false&hide_border=true"/> |
