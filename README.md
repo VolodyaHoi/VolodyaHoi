@@ -2,7 +2,7 @@
 
 <p align="center">
 
-<img src="https://sun9-57.userapi.com/PaR-UbKh1vtWHlDC8qXkJ0Q_WsEWGLCzg-bUiw/m0VyyjPDz_k.jpg" alt="maluv" width="800" height="300"/>
+<img src="https://sun9-57.userapi.com/PaR-UbKh1vtWHlDC8qXkJ0Q_WsEWGLCzg-bUiw/m0VyyjPDz_k.jpg" alt="ciri" width="800" height="300"/>
 
 ## Information:
 
