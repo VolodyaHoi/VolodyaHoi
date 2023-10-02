@@ -2,7 +2,7 @@
 
 <p align="center">
 
-<img src="https://sun9-57.userapi.com/PaR-UbKh1vtWHlDC8qXkJ0Q_WsEWGLCzg-bUiw/m0VyyjPDz_k.jpg" alt="ciri" width="800" height="300"/>
+<img src="https://images.hdqwalls.com/download/ciri-the-witcher-3-digital-art-4k-p3-2560x1080.jpg" alt="ciri" width="800" height="300"/>
 
 ## Information:
 
