@@ -6,10 +6,10 @@
 
 ## Information:
 
-***[ENG]*** I am a novice IT specialist with a backend bias (but often I have to work with a full stack). I develop application programs designed for various purposes. For 2 years I have been using <a href=https://ubuntu.com/>Linux Ubuntu 22</a> as an operating system on a regular basis. 
+*[ENG] I am a novice IT specialist with a backend bias (but often I have to work with a full stack). I develop application programs designed for various purposes. For 2 years I have been using <a href=https://ubuntu.com/>Linux Ubuntu 22</a> as an operating system on a regular basis. 
 I study information security and privacy on the web.
 
-[RU] Я начинающий IT-специалист с уклоном в бэкенд (но часто мне приходится работать с полным стеком). Я разрабатываю прикладные программы, предназначенные для различных целей. В течение 2 лет я использовал <a href=https://ubuntu.com/>Linux Ubuntu 22</a> в качестве операционной системы. 
+*[RU] Я начинающий IT-специалист с уклоном в бэкенд (но часто мне приходится работать с полным стеком). Я разрабатываю прикладные программы, предназначенные для различных целей. В течение 2 лет я использовал <a href=https://ubuntu.com/>Linux Ubuntu 22</a> в качестве операционной системы. 
 Изучаю информационную безопасность и конфиденциальность в Интернете.
 
 [![telegram](https://img.shields.io/static/v1?label=&message=telegram&color=191919&style=for-the-badge&logo=telegram)](https://t.me/notavl2) [![vkontakte](https://img.shields.io/static/v1?label=&message=VK&color=191919&style=for-the-badge&logo=vk)](https://vk.com/id631406971) 
