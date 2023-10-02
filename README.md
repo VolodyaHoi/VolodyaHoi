@@ -29,7 +29,7 @@ I study information security and privacy on the web.
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/>
 
 **❗All my projects are in repositories.❗**
-> p.s Part of the software is released under the AML tag (it is not related to the fight against money laundering and other projects with the abbreviation AML).
+> P.S Part of the software is released under the AML tag (it is not related to the fight against money laundering and other projects with the abbreviation AML).
 ## Statistics: 
 
 | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=VolodyaHoi&show_icons=true&theme=github_dark&hide_border=true&locale=en&layout=compact&border=false" alt="VolodyaHoi stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api?username=VolodyaHoi&show_icons=true&include_all_commits=true&theme=github_dark&cache_seconds=3200&border=false&hide_border=true"/> |
