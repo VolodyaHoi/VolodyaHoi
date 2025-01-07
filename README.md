@@ -8,9 +8,7 @@ __*[ENG]*__ I am a novice IT specialist with a backend bias (but often I have to
 
 I study information security and privacy on the web.
 
-__*[RU]*__ Я начинающий IT-специалист с уклоном в бэкенд (но часто мне приходится работать с полным стеком). Я разрабатываю прикладные программы, предназначенные для различных целей. В течение 2 лет я использовал <a href=https://ubuntu.com/>Linux Ubuntu 22</a> в качестве операционной системы. 
 
-Изучаю информационную безопасность и конфиденциальность в Интернете.
 
 [![telegram](https://img.shields.io/static/v1?label=&message=telegram&color=191919&style=for-the-badge&logo=telegram)](https://t.me/notavl2) [![vkontakte](https://img.shields.io/static/v1?label=&message=VK&color=191919&style=for-the-badge&logo=vk)](https://vk.com/id631406971) 
 
@@ -20,7 +18,7 @@ __*[RU]*__ Я начинающий IT-специалист с уклоном в 
 
 <img src="https://profile-counter.glitch.me/VolodyaHoi/count.svg" /> 
 <p align="center">
-<a> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
+<a> <img src="https://raw.githubusercontent.com/icons/VolodyaHoi/master/icons/os/linux" alt="linux" width="40" height="40"/> </a>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg" alt="ubuntu" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="bash" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
