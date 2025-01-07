@@ -1,10 +1,10 @@
-<h1 align="center"/> Hello world! I`m VolodyaHoi </h1>
+<h1 align="center"/> Hello world! I`m VolodyaHoi [7nation]</h1>
 
 <p align="center"/>
 
 ## Information:
 
-__*[ENG]*__ I am a novice IT specialist with a backend bias (but often I have to work with a full stack). I develop application programs designed for various purposes. For 2 years I have been using <a href=https://ubuntu.com/>Linux Ubuntu 22</a> as an operating system on a regular basis. 
+__*[ENG]*__ I am a novice IT specialist with a backend bias (but often I have to work with a full stack). I develop application programs designed for various purposes. For 2 years I have been using <a href=https://ubuntu.com/>Linux Ubuntu 22</a> as an operating system on a regular basis. I`m mainly developing software on python and use c# in my learning activities.
 
 I study information security and privacy on the web.
 
