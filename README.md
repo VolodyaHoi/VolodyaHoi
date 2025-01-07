@@ -18,7 +18,7 @@ I study information security and privacy on the web.
 
 <img src="https://profile-counter.glitch.me/VolodyaHoi/count.svg" /> 
 <p align="center">
-<a> <img src="[https://raw.githubusercontent.com/icons/VolodyaHoi/master/icons/os/linux](https://raw.githubusercontent.com/VolodyaHoi/icons/refs/heads/main/icons/dev/os/linux.svg)" alt="linux" width="40" height="40"/> </a>
+<a> <img src="https://raw.githubusercontent.com/icons/VolodyaHoi/master/icons/os/linux" alt="linux" width="40" height="40"/> </a>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg" alt="ubuntu" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="bash" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
