@@ -31,7 +31,6 @@ Im interesting in information security, cyber security and privacy on the web.
 <a href="vk.com/id631406971"><img src="https://raw.githubusercontent.com/VolodyaHoi/icons/refs/heads/main/icons/social/vk.svg" alt="vk" width="40" height="40"/></a>
 <a href="discord.com/Itsfukingmee666"><img src="https://raw.githubusercontent.com/VolodyaHoi/icons/refs/heads/main/icons/social/discord.svg" alt="ds" width="40" height="40"/></a>
 
-**❗All my projects are in repositories.❗**
 > *P.S Part of the software is released under the AML tag (it is not related to the fight against money laundering and other projects with the abbreviation AML)*.
 
 ## Statistics: 
