@@ -42,7 +42,5 @@ Views:
 <p align="center"/>
 <img src="https://profile-counter.glitch.me/VolodyaHoi/count.svg" /> 
 
-<p align="center">
 | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=VolodyaHoi&show_icons=true&theme=github_dark&hide_border=true&locale=en&layout=compact&border=false" alt="VolodyaHoi stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api?username=VolodyaHoi&show_icons=true&include_all_commits=true&theme=github_dark&cache_seconds=3200&border=false&hide_border=true"/> |
 | ------------- | ------------- |
-</p>
