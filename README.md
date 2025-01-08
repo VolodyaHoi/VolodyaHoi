@@ -1,4 +1,5 @@
-<h1 align="center"/> Hello world! I`m VolodyaHoi [7nation]</h1>
+<h1 align="center"> Hello world! 👋 </h1>
+<h2 align="center">I`m VolodyaHoi [7nation]</h2>
 
 <p align="center"/>
 
