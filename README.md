@@ -2,7 +2,7 @@
 
 ## 📋 Information
 
-I`m VolodyaHoi [7nation], novice IT specialist with a backend bias (but often I have to work with a full stack). I develop application programs designed for various purposes. For 2 years I have been using <a href=https://ubuntu.com/>Linux Ubuntu 22</a> as an operating system on a regular basis. Im mainly developing software on **Python** and use **C#** in my learning activities. You can visit my web page for more information: <a href="https://volodyahoi.github.io/Swallow/">click</a>.
+I`m ***VolodyaHoi [7nation]***, novice IT specialist with a backend bias (but often I have to work with a full stack). I develop application programs designed for various purposes. For 2 years I have been using <a href=https://ubuntu.com/>Linux Ubuntu 22</a> as an operating system on a regular basis. Im mainly developing software on **Python** and use **C#** in my learning activities. You can visit my web page for more information: <a href="https://volodyahoi.github.io/Swallow/">click</a>.
 
 Im interesting in information security, cyber security and privacy on the web.
 
