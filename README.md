@@ -10,7 +10,7 @@ Im interesting in information security, cyber security and privacy on the web.
 
 > *P.S Part of the software is released under the AML tag (it is not related to the fight against money laundering and other projects with the abbreviation AML)*.
 
-## 🖥 My skills:
+## 🖥 My skills and tools:
 
 <p align="center"/>
 <a> <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=f5f5f5" alt="linux"/> </a>
